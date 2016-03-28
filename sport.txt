@@ -1,28 +1,37 @@
 ime="Arena Sport 1"
-url="http://www.sipragezabava.com/kanal_2_yu.php"
-img="http://blog.mtel.ba/wp-content/uploads/2015/08/infokanal_30_arenasport1.png"
-epg="http://tvprofil.net/xmltv/data/tv-arena-sport-1.sport/weekly_tv-arena-sport-1.sport_tvprofil.net.xml"
-
-ime="Arena Sport 1"
-url="http://www.serbiaplus.com/arenasport1.html"
+url="http://www.serbiaplus.club/embedhls/arenasport1sk.html"
 img="http://blog.mtel.ba/wp-content/uploads/2015/08/infokanal_30_arenasport1.png"
 epg="http://tvprofil.net/xmltv/data/tv-arena-sport-1.sport/weekly_tv-arena-sport-1.sport_tvprofil.net.xml"
 
 ime="Arena Sport 2"
-url="http://www.serbiaplus.com/arenasport2.html"
+url="http://www.serbiaplus.club/embedhls/arenasport2sk.html"
 img="http://blog.mtel.ba/wp-content/uploads/2015/08/infokanal_30_arenasport1.png"
 epg="180"
 
 ime="Arena Sport 3" 
 img="http://www.tvarenasport.com/themes/3way/img/logo_tvarenasport3_s.gif"
-url="http://www.serbiaplus.com/arenasport3.html"
+url="http://www.serbiaplus.club/embedhls/arenasport3sk.html"
 epg="253"
 
 ime="Arena Sport 4"
 img="http://www.tvarenasport.com/themes/3way/img/logo_tvarenasport4_s.gif"
-url="http://www.serbiaplus.com/arenasport4.html"
+url="http://www.jagledam.com/kanal.php?kanal=50"
 epg="264"
 
+ime="Sport Klub 1"
+img="http://www.sportklub.info/img_hp/SK_logo.png"
+url="http://www.serbiaplus.club/embedhls/sportklub1sk.html"
+epg="62"
+
+ime="Sport Klub 2"
+img="http://www.sportklub.info/img_hp/SK_logo.png"
+url="http://www.serbiaplus.club/embedhls/sportklub2sk.html"
+epg="63"
+
+ime="Sport Klub 3"
+img="http://www.sportklub.info/img_hp/SK_logo.png"
+url="http://www.serbiaplus.club/embedhls/sportklub3sk.html"
+epg="296"
 
 ime="Šport 1"
 url="http://cdn.iptv.amis.net/LIVE/SportKlub/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
@@ -36,5 +45,5 @@ epg="-"
 
 ime="Sky Sports 1"
 img="http://3.bp.blogspot.com/-_5hLpXCOCu0/VAW6b9Z5u3I/AAAAAAAAFUY/tiCj5Ilg6Fo/s1600/sky%2Bsports%2B1%2Blive%2Bmykora.png"
-url="http://www.serbiaplus.com/skysport1.html"
+url="http://www.ibrod.tv/skysports1.html"
 epg="bleb-sky_sports1"
