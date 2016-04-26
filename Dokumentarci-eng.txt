@@ -39,3 +39,8 @@ ime="Outdoor Channel"
 url="http://cdn.iptv.amis.net/LIVE/OutdoorChannel/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
 img="http://www.monticellolive.com/wp-content/uploads/2012/06/Outdoor-Channel-Logo.jpg"
 epg="-"
+
+ime="Discovery Shed"
+url="http://www.streamlive.to/view/73424/Discovery_SHED_%28HD%29"
+img="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Discovery_Shed.png/150px-Discovery_Shed.png"
+epg="-"
