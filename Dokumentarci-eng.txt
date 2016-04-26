@@ -15,7 +15,7 @@ url="http://cdn.iptv.amis.net/LIVE/CROHISTORYCH/stream_wifi_1200k.m3u8|User-Agen
 img="http://tvprofil.net/img/kanali-logo/history-logo.png"
 epg="140"
 
-ime="History Channel 2 UK"
+ime="History 2 UK"
 url="http://www.streamlive.to/view/73421/History_2_UK_%28HD%29"
 img="http://www.exorbeo.com/wp-content/uploads/2015/08/canal-h2-hd-na-net.png"
 epg="-"
