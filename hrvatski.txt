@@ -1,6 +1,6 @@
 
 ime="HRT 1" 
-url="https://prd-hrt-live.morescreens.com/OIV_HRT1_TV/01.m3u8?video_id=83&authority_instance_id=spectar-prd-hrt" 
+url="https://prd-hrt-live.morescreens.com/OIV_HRT1_TV/01.m3u8?video_id=86&authority_instance_id=spectar-prd-hrt" 
 img="http://tvprofil.net/img/kanali-logo/htv1-logo.png"
 epg="1"
 
