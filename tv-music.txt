@@ -1,13 +1,8 @@
 ime="CMC"
-url="http://95.128.236.80:1935/kaltura/smil:cmc.smil/playlist.m3u8"
+url="http://cdn.iptv.amis.net/LIVE/CMC/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0##http://95.128.236.80:1935/kaltura/smil:cmc.smil/playlist.m3u8"
 img="http://4.bp.blogspot.com/-Xv4biH2TkD0/VIx0WAyNRaI/AAAAAAAAAKI/0eHIXdGfu-M/s1600/CMC.jpg"
 epg="32"
 
-
-ime="CMC"
-url="http://cdn.iptv.amis.net/LIVE/CMC/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
-img="http://4.bp.blogspot.com/-Xv4biH2TkD0/VIx0WAyNRaI/AAAAAAAAAKI/0eHIXdGfu-M/s1600/CMC.jpg"
-epg="32"
 
 ime="VH-1"
 url="http://cdn.iptv.amis.net/LIVE/VH1/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
