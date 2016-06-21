@@ -1,11 +1,11 @@
 
 ime="HRT 1" 
-url="https://prd-hrt-live.morescreens.com/OIV_HRT1_TV/01.m3u8?video_id=83&authority_instance_id=spectar-prd-hrt" 
+url="https://prd-hrt-live.morescreens.com/OIV_HRT1_TV/01.m3u8?video_id=83&authority_instance_id=spectar-prd-hrt##http://cdn.iptv.amis.net/LIVE/HRT1/stream_wifi_840k.m3u8|User-Agent=Mozilla/5.0" 
 img="http://tvprofil.net/img/kanali-logo/htv1-logo.png"
 epg="1"
 
 ime="HRT 2" 
-url="https://prd-hrt-live.morescreens.com/OIV_HRT2_TV/01.m3u8?video_id=87&authority_instance_id=spectar-prd-hrt" 
+url="https://prd-hrt-live.morescreens.com/OIV_HRT2_TV/01.m3u8?video_id=87&authority_instance_id=spectar-prd-hrt##http://cdn.iptv.amis.net/LIVE/HRT2/stream_wifi_840k.m3u8|User-Agent=Mozilla/5.0##http://www.sports-x.net/embed/hrt2" 
 img="http://tvprofil.net/img/kanali-logo/htv2-logo.png"
 epg="2"
 
@@ -30,7 +30,7 @@ img="http://static.etrend.sk/uploads/tx_media/2009/6/tv_doma_logo_6.gif"
 epg="185"
 
 ime="HRT 3" 
-url="https://prd-hrt-live.morescreens.com/OIV_HRT3_TV/01.m3u8?video_id=91&authority_instance_id=spectar-prd-hrt" 
+url="https://prd-hrt-live.morescreens.com/OIV_HRT3_TV/01.m3u8?video_id=91&authority_instance_id=spectar-prd-hrt##http://cdn.iptv.amis.net/LIVE/HRT3/stream_wifi_840k.m3u8|User-Agent=Mozilla/5.0" 
 img="http://tvprofil.net/img/kanali-logo/hrt3-logo.png"
 epg="310"
 
