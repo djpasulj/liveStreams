@@ -4,6 +4,10 @@ url="http://pcdn-07.sdn.si/22ba7f2471e9f5e894f3c50f4f16ea68/planettv/planettv.is
 img="http://www.tv-logo.com/pt-data/uploads/images/logo/planet_tv_si.jpg"
 epg="-"
 
+ime="Hayat Plus"
+url="http://cdn.iptv.amis.net/hls/Hayat/stream_wifi_840k.m3u8|User-Agent=Mozilla/5.0"
+img="https://upload.wikimedia.org/wikipedia/bs/1/1a/Logo_hayat_tv_sat_plus.png"
+
 ime="b92"
 url="http://abcast.net/abcat.php?file=tashg&width=610&height=470"
 img="http://b92s.net/b92.png"
