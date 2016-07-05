@@ -68,6 +68,11 @@ url="http://www.ibrod.tv/skysports5.html"
 img="http://www.skysports.com/core/img/channels/Sky-Sports-5-Logo.png"
 epg="bleb-sky_sports5"
 
+ime="Sky Sports News"
+url="http://showsport-tv.com/embedplayer.php?ch=skynews&width=700&height=450"
+img="http://www.skysports.com/core/img/channels/Sky-Sports-News-HQ-Logo.png"
+epg="bleb-sky_sports_news"
+
 ime="British Eurosport 1"
 url="http://www.ibrod.tv/eurosports1.html"
 img="https://upload.wikimedia.org/wikipedia/commons/e/e6/Eurosport_1_Logo_2015.png"
