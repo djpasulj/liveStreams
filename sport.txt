@@ -47,3 +47,28 @@ ime="Sky Sports 1"
 img="http://3.bp.blogspot.com/-_5hLpXCOCu0/VAW6b9Z5u3I/AAAAAAAAFUY/tiCj5Ilg6Fo/s1600/sky%2Bsports%2B1%2Blive%2Bmykora.png"
 url="http://www.ibrod.tv/skysports1.html"
 epg="bleb-sky_sports1"
+
+ime="Sky Sports 2"
+url="http://www.ibrod.tv/skysports2.html"
+img="http://4.bp.blogspot.com/-jYg8ovLGy-g/VAW6cF2XvII/AAAAAAAAFUc/PuxutEG0yto/s1600/sky%2Bsports%2B2%2Blive%2Bmykora.png"
+epg="bleb-sky_sports2"
+
+ime="Sky Sports 3"
+url="http://www.ibrod.tv/skysports3.html"
+img="http://www.skysports.com/core/img/channels/Sky-Sports-3-Logo.png"
+epg="bleb-sky_sports3"
+
+ime="Sky Sports 4"
+url="http://www.ibrod.tv/skysports4.html"
+img="http://www.skysports.com/core/img/channels/Sky-Sports-4-Logo.png"
+epg="bleb-sky_sports4"
+
+ime="Sky Sports 5"
+url="http://www.ibrod.tv/skysports5.html"
+img="http://www.skysports.com/core/img/channels/Sky-Sports-5-Logo.png"
+epg="bleb-sky_sports5"
+
+ime="British Eurosport 1"
+url="http://www.ibrod.tv/eurosports1.html"
+img="https://upload.wikimedia.org/wikipedia/commons/e/e6/Eurosport_1_Logo_2015.png"
+epg="bleb-british_eurosport"
