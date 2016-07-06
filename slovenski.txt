@@ -1,47 +1,57 @@
 ime="SLO 1" 
 url="http://cdn.iptv.amis.net/ts/Slo1/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0" 
 img="http://tvprofil.net/img/kanali-logo/rtv-slo1-logo.png"
-epg="-"
+epg="siol-slo1"
 ime="SLO 2" 
 url="http://cdn.iptv.amis.net/ts/Slo2/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0" 
 img="http://tvprofil.net/img/kanali-logo/rtv-slo2-logo.png"
-epg="-"
+epg="siol-slo2"
+
 ime="SLO 3" 
 url="http://cdn.iptv.amis.net/ts/Slo3/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
 img="http://tvprofil.net/img/kanali-logo/rtv-slo3-logo.png"
-epg="-"
+epg="siol-slo3"
+
 ime="POP TV" 
 url="http://cdn.iptv.amis.net/ts/PopTV/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
 img="http://tvprofil.net/img/kanali-logo/pop-tv-logo.png"
-epg="-"
+epg="siol-poptvhd"
+
 ime="POP KINO" 
 url="http://cdn.iptv.amis.net/ts/PopKino/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 img="http://tvprofil.net/img/kanali-logo/LOGO-KINO_logo2.png"
-epg="-"
+epg="siol-popkino"
+
 ime="POP BRIO" 
 url="http://cdn.iptv.amis.net/ts/Brio/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 img="http://tvprofil.net/img/kanali-logo/LOGO-BRIO_logo.png"
-epg="-"
-ime="FOX LIVE" 
+epg="siol-brio"
+
+ime="FOX" 
 url="http://cdn.iptv.amis.net/LIVE/FOX/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
 img="http://tvprofil.net/img/kanali-logo/fox-logo.png"
-epg="-"
+epg="siol-fox"
+
 ime="PLANET TV" 
 url="http://cdn.iptv.amis.net/ts/PlanetTV/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
 img="http://tvprofil.net/img/kanali-logo/planet-tv-logo.png"
-epg="-"
+epg="siol-planettv"
+
 ime="TV 3" 
 url="http://cdn.iptv.amis.net/ts/PinkTV3/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
 img="http://tvprofil.net/img/kanali-logo/tv-medias-logo.png"
-epg="-"
+epg="siol-pinksi"
+
 ime="KANAL A" 
 url="http://cdn.iptv.amis.net/ts/KanalA/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
 img="http://tvprofil.net/img/kanali-logo/KANAL-A-logo_veliki.png"
-epg="-"
+epg="siol-akanal"
+
 ime="ČARLI TV" 
 url="http://cdn.iptv.amis.net/ts/Carli/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
 img="https://www.amis.net/web3/files/images/kanali/Carli_TV.png"
 epg="-"
+
 ime="GOLICA TV" 
 url="http://cdn.iptv.amis.net/ts/Golica/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
 img="https://www.amis.net/web3/files/images/kanali/golica_tv.png"
