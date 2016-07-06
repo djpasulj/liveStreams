@@ -1,7 +1,7 @@
 ime="Arena Sport 1"
 url="http://streamking.cc/arena1"
 img="http://blog.mtel.ba/wp-content/uploads/2015/08/infokanal_30_arenasport1.png"
-epg="http://tvprofil.net/xmltv/data/tv-arena-sport-1.sport/weekly_tv-arena-sport-1.sport_tvprofil.net.xml"
+epg="179"
 
 ime="Arena Sport 2"
 url="http://streamking.cc/arena2"
