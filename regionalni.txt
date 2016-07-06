@@ -7,6 +7,7 @@ epg="-"
 ime="Hayat Plus"
 url="http://cdn.iptv.amis.net/hls/Hayat/stream_wifi_840k.m3u8|User-Agent=Mozilla/5.0"
 img="https://upload.wikimedia.org/wikipedia/bs/1/1a/Logo_hayat_tv_sat_plus.png"
+epg="-"
 
 ime="b92"
 url="http://abcast.net/abcat.php?file=tashg&width=610&height=470"
