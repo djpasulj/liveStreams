@@ -19,12 +19,12 @@ img="http://tvprofil.net/img/kanali-logo/pop-tv-logo.png"
 epg="siol-poptvhd"
 
 ime="POP KINO" 
-url="http://cdn.iptv.amis.net/ts/PopKino/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
+url="http://cdn.iptv.amis.net/ts/PopKino/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
 img="http://tvprofil.net/img/kanali-logo/LOGO-KINO_logo2.png"
 epg="siol-popkino"
 
 ime="POP BRIO" 
-url="http://cdn.iptv.amis.net/ts/Brio/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
+url="http://cdn.iptv.amis.net/ts/Brio/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
 img="http://tvprofil.net/img/kanali-logo/LOGO-BRIO_logo.png"
 epg="siol-brio"
 
