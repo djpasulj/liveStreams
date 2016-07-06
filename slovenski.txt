@@ -2,6 +2,7 @@ ime="SLO 1"
 url="http://cdn.iptv.amis.net/ts/Slo1/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0" 
 img="http://tvprofil.net/img/kanali-logo/rtv-slo1-logo.png"
 epg="siol-slo1"
+
 ime="SLO 2" 
 url="http://cdn.iptv.amis.net/ts/Slo2/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0" 
 img="http://tvprofil.net/img/kanali-logo/rtv-slo2-logo.png"
