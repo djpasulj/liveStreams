@@ -1,22 +1,22 @@
 ime="Arena Sport 1"
 url="http://streamking.cc/arena1"
 img="http://blog.mtel.ba/wp-content/uploads/2015/08/infokanal_30_arenasport1.png"
-epg="179"
+epg="mts-Sport-HD,700"
 
 ime="Arena Sport 2"
 url="http://streamking.cc/arena2"
 img="http://tvprofil.net/img/kanali-logo/arenasport_2_logo.png"
-epg="180"
+epg="mts-Sport-HD,701"
 
 ime="Arena Sport 3" 
 img="http://www.tvarenasport.com/themes/3way/img/logo_tvarenasport3_s.gif"
 url="http://streamking.cc/arena3"
-epg="253"
+epg="mts-Sport-HD,702"
 
 ime="Arena Sport 4"
 img="http://www.tvarenasport.com/themes/3way/img/logo_tvarenasport4_s.gif"
 url="http://www.sports-x.net/arena4.html"
-epg="264"
+epg="mts-Sport-HD,703"
 
 ime="Sport Klub 1"
 img="http://www.sportklub.info/img_hp/SK_logo.png"
