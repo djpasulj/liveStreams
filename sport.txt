@@ -20,17 +20,17 @@ epg="mts-Sport-HD,703"
 
 ime="Sport Klub 1"
 img="http://www.sportklub.info/img_hp/SK_logo.png"
-url="http://streamking.cc/sportklub"
+url="http://shstream.co/page.php?sk1=1##http://streamking.cc/sportklub"
 epg="62"
 
 ime="Sport Klub 2"
 img="http://www.sportklub.info/img_hp/SK_logo.png"
-url="http://streamking.cc/sportklub2"
+url="http://shstream.co/page.php?sk2=2##http://streamking.cc/sportklub2"
 epg="63"
 
 ime="Sport Klub 3"
 img="http://www.sportklub.info/img_hp/SK_logo.png"
-url="http://streamking.cc/sportklub3"
+url="http://shstream.co/page.php?sk3=3##http://streamking.cc/sportklub3"
 epg="296"
 
 ime="Šport 1"
