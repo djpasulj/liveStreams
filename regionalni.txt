@@ -5,7 +5,7 @@ img="http://www.tv-logo.com/pt-data/uploads/images/logo/planet_tv_si.jpg"
 epg="-"
 
 ime="Hayat Plus"
-url="http://cdn.iptv.amis.net/hls/Hayat/stream_wifi_840k.m3u8|User-Agent=Mozilla/5.0"
+url="http://cdn.iptv.amis.net/hls/Hayat/stream_wifi_840k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)"
 img="https://upload.wikimedia.org/wikipedia/bs/1/1a/Logo_hayat_tv_sat_plus.png"
 epg="-"
 
