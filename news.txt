@@ -9,11 +9,11 @@ img="http://www.mojatv.ba/fileadmin/template/bht2008.1/mojatv/aljazeera_balkans1
 epg="270"
 
 ime="CNN International" 
-url="http://cdn.iptv.amis.net/LIVE/CNN/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0" 
+url="http://cdn.iptv.amis.net/LIVE/CNN/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)" 
 img="https://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED.png"
 epg="436"
 
 ime="Bloomberg"
-url="http://cdn.iptv.amis.net/LIVE/Bloomberg/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
+url="http://cdn.iptv.amis.net/LIVE/Bloomberg/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)"
 img="http://vignette3.wikia.nocookie.net/logopedia/images/a/a3/Bloomberg_television.jpg/revision/latest?cb=20130326221752"
 epg="80"
