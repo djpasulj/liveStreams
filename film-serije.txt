@@ -1,22 +1,22 @@
 
 
 ime="FOX Crime"
-url="http://cdn.iptv.amis.net/LIVE/FOXCRIMEHRVATSKA/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
+url="http://cdn.iptv.amis.net/LIVE/FOXCRIMEHRVATSKA/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)"
 img="http://tvprofil.net/img/kanali-logo/fox-crime-logo.png"
 epg="70"
 
 ime="FOX Life"
-url="http://cdn.iptv.amis.net/LIVE/FOXLIFEHRVATSKA/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
+url="http://cdn.iptv.amis.net/LIVE/FOXLIFEHRVATSKA/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)"
 img="http://tvprofil.net/img/kanali-logo/fox-life-logo.PNG"
 epg="69"
 
 ime="Universal Channel" 
-url="http://cdn.iptv.amis.net/ts/UniversalChannelCRO/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0" 
+url="http://cdn.iptv.amis.net/ts/UniversalChannelCRO/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)" 
 img="http://tvprofil.net/img/kanali-logo/universal-channel-logo.png"
 epg="40"
 
 ime="CBS Reality"
-url="http://cdn.iptv.amis.net/LIVE/CROREALITY/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
+url="http://cdn.iptv.amis.net/LIVE/CROREALITY/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)"
 img="http://tvprofil.net/img/kanali-logo/CBS-REALITY.png"
 epg="76"
 
