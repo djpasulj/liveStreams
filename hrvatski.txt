@@ -15,7 +15,7 @@ img="http://www.web-tv-portal.de/img/fernsehen/rtl-logo.png"
 epg="4"
 
 ime="NOVA TV"
-url="http://www.sipragezabava.com/NOVA_TV_HR_uzivo.php"
+url="http://www.sipragezabava.com/streamnova/"
 img="https://upload.wikimedia.org/wikipedia/sh/4/4e/Novatv_hr.png"
 epg="3"
 
